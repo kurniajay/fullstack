@@ -1,0 +1,26 @@
+/* src/App.css */
+.App {
+  width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 2px solid #000;
+  border-radius: 8px;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.header, .experience, .education {
+  margin-bottom: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th {
+  background-color: #f0f0f0;
+}
